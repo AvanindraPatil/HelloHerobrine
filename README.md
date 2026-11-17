@@ -1,30 +1,15 @@
 # Hello Herobrine
 
-*Herobrine has arrived!*
+**Herobrine has arrived.** He has taken the Neighbor's place, or has he?
 
-**Herobrine haunts Hello Neighbor.** He has taken the Neighbor's place, but he is not always there: he shows up far
-away, at a window or behind you, watches, and is gone when you look again.
-
-<!-- screenshot here -->
+<img width="2560" height="1440" alt="Screenshot (3641)" src="https://github.com/user-attachments/assets/fa9e8412-ef6f-4044-bbd4-2b1b9859ca20" />
 
 > Unofficial fan mod, not affiliated with or endorsed by tinyBuild, Dynamic Pixels, Mojang Studios or Microsoft.
 > NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
 
-## Features
-
-- **Herobrine replaces the Neighbor** in every act: chases, catches, cutscenes, the main menu.
-- **Haunting**: sightings in the distance, doors opening by themselves, lights going out, a dread fog, footsteps
-  behind you.
-- **Sky events**: for a few seconds the day turns to night and he stands far off, then everything goes back.
-- **His chat** in the corner of the screen, Minecraft style.
-- **Act 1**: new opening films, a red key prank, the basement generator, and a new ending in the basement.
-- **Act 2 and Act 3 basements**: new scenes, sightings and endings. In Act 3 he gives you the abilities himself.
-- **Act 3** starts with him on the rooftops outside the apartment window.
-- **Act 4** is a new scripted ending, with a film of his memories seen through his eyes.
-
 ## Requirements
 
-- **Hello Neighbor** (the full 2017 game) on Steam, on Windows.
+- **Hello Neighbor** on Steam, on Windows.
 - Nothing else: the installer brings [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) (the mod loader).
 
 ## Install
@@ -54,9 +39,7 @@ Double-click **`Uninstall.bat`**. It removes the mod, and UE4SS too if this mod 
 - Other mods that change the Neighbor (Hello Playtime, Tom & Jerry, Hello Nicky, ...) fight with this one: use one at
   a time.
 - Logs: `<Hello Neighbor>\HelloNeighbor\Binaries\Win64\herobrine_lua.log` and `ue4ss\UE4SS.log` in the same folder.
-  Please attach both when you report a problem in [Issues](../../issues).
-- A game update can break UE4SS mods. Tested with the Steam version of 2026-11.
-
+  
 ## Credits and licence
 
 Made by Gaming with ACK. Code: MIT (see `LICENSE`). Full credits are in `CREDITS.txt` in the download:
@@ -64,8 +47,8 @@ Made by Gaming with ACK. Code: MIT (see `LICENSE`). Full credits are in `CREDITS
 - Herobrine model: ["Herobrine - Minecraft"](https://sketchfab.com/3d-models/herobrine-minecraft-9b6123604e3c4c32a115a1c5b3d1f0cf)
   by [Philippe Oliveira](https://sketchfab.com/PhilippeOliveira), CC-BY-4.0, rebuilt and rigged for this mod.
 - A few sound effects from Minecraft (footsteps, Enderman, Ghast, cave ambience, doors) belong to Mojang Studios and
-  are not covered by this mod's licence. The mod's other sounds are our own (CC0).
+  are not covered by this mod's licence.
 - Hello Neighbor's levels, films, sounds and music are loaded from your own installed game; Hello Neighbor belongs to
-  tinyBuild / Dynamic Pixels. Minecraft and Herobrine's look belong to Mojang Studios / Microsoft.
+  tinyBuild / Dynamic Pixels.
 - [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS): MIT.
-- Built with AI assistance (Claude Code, Anthropic).
+- Built with AI assistance.
